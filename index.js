@@ -30,3 +30,6 @@ function iLoveTheBeatles(num) {
   } while (num < 15);
   return array;
 }
+
+var test1 = [1,2,3,4];
+johnLennonFacts(test1)
